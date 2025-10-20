@@ -1,0 +1,17 @@
+[project]
+name = "nlp-final"
+version = "0.1.0"
+description = "Lysander Schmidt and William Kaiser final project for NLP"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "einops>=0.8.1",
+    "jupyterlab>=4.4.9",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "scipy>=1.16.2",
+    "torch>=2.9.0",
+    "transformers>=4.57.1",
+    "zstd>=1.5.7.2",
+]
