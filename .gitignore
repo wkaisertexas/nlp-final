@@ -6,5 +6,8 @@ dist/
 wheels/
 *.egg-info
 
+# Ipython
+.ipynb_checkpoints/
+
 # Virtual environments
 .venv

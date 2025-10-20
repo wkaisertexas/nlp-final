@@ -5,6 +5,7 @@ description = "Lysander Schmidt and William Kaiser final project for NLP"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "accelerate>=1.11.0",
     "einops>=0.8.1",
     "jupyterlab>=4.4.9",
     "matplotlib>=3.10.7",
